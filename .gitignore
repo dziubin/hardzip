@@ -1,0 +1,21 @@
+# Rust build output
+/target/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary build logs
+build.log
+build_errors.txt
+err.txt
+out.txt
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Installer output
+installer/output/

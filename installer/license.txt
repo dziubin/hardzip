@@ -1,0 +1,18 @@
+HardZIP - End User License Agreement
+
+Copyright (c) 2024-2026 Lukasz Dziubinski. All rights reserved.
+
+This software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose and noninfringement.
+
+You are granted a free, non-exclusive license to use this software for
+personal and commercial purposes.
+
+You may NOT:
+- Reverse engineer, decompile, or disassemble this software
+- Remove or modify any proprietary notices or labels
+- Redistribute this software without express written permission
+
+For inquiries: lukasz@ydi.pl
+Website: https://www.ydi.pl
