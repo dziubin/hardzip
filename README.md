@@ -105,4 +105,6 @@ src/
 
 ## License
 
-Proprietary. All rights reserved.
+Source Available — see [LICENSE](LICENSE) for details.
+
+Code is viewable for educational purposes. Redistribution and modification are not permitted without written consent. The compiled binary may be used free of charge.
